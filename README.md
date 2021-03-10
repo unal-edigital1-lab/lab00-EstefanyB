@@ -1,5 +1,5 @@
 # lab01- sumador 
 laboratorio 01 introducción a HDL
-Estudiante Estefany ..
+Estudiante Estefany Alejandra Bautista Franco
 
 ## Introducciòn
