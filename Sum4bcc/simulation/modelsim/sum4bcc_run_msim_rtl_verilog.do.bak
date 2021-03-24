@@ -1,0 +1,10 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+E:/Quartus/digital1/lab00-EstefanyB/hdl/quartus/Sum4bcc {E:/Quartus/digital1/lab00-EstefanyB/hdl/quartus/Sum4bcc/sum4bcc.v}
+vlog -vlog01compat -work work +incdir+E:/Quartus/digital1/lab00-EstefanyB/hdl/quartus/Sum4bcc {E:/Quartus/digital1/lab00-EstefanyB/hdl/quartus/Sum4bcc/sum1bcc.v}
+

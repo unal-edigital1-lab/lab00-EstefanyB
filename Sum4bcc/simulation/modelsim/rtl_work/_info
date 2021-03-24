@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/simulation/modelsim
+vsum1bcc
+Z1 !s110 1616604139
+!i10b 1
+!s100 _K?ekWb0Fg;WlcM0eNz:01
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1B`22Iz7;I^?85QVaGCje3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1616596279
+8E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/sum1bcc.v
+FE:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/sum1bcc.v
+!i122 1
+L0 1 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1616604139.000000
+!s107 E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/sum1bcc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc|E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/sum1bcc.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc
+Z8 tCvgOpt 0
+vsum4bcc
+!s110 1616604138
+!i10b 1
+!s100 :Rd62;b1aGh>Gn0NNVFEk0
+R2
+IHB`9@:m]cnZ6YNIfH^<4m1
+R3
+R0
+w1616390176
+8E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/sum4bcc.v
+FE:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/sum4bcc.v
+!i122 0
+L0 1 15
+R4
+r1
+!s85 0
+31
+!s108 1616604137.000000
+!s107 E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/sum4bcc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc|E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/sum4bcc.v|
+!i113 1
+R6
+R7
+R8
+vtestbench
+R1
+!i10b 1
+!s100 f@?Dm0z<K_fg_i^6g4nHQ3
+R2
+I5_SaY_JLn^;`CGh;D`gWo2
+R3
+R0
+w1616395562
+8E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/testbench.v
+FE:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/testbench.v
+!i122 2
+L0 1 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc|E:/Quartus/digital1/lab00-EstefanyB/Sum4bcc/testbench.v|
+!i113 1
+R6
+R7
+R8
