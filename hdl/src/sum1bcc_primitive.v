@@ -7,11 +7,11 @@ module sum1bcc_primitive (A, B, Ci,Cout,S);
   output S;
 
 
-  wire a_ab;
+  wire a_ab; //Son como cables
   wire x_ab;
   wire cout_t;
 
-  and(a_ab,A,B);
+  and(a_ab,A,B); // Primero está el de salida, luego los de entrada. Lógica computacional
   xor(x_ab,A,B);
 
   xor(S,x_ab,Ci);
